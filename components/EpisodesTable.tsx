@@ -78,7 +78,7 @@ export default function EpisodesTable({ episodes }: EpisodesTableProps) {
                                     return (
                                         <TableRow
                                             key={episode.id}
-                                            className="hover:bg-gray-800/50 border-gray-700 cursor-pointer"
+                                            className="hover:bg-gray-800/50 border-gray-700 cursor-pointer whitespace-nowrap"
                                             onClick={() => window.open(`https://www.imdb.com/title/tt2861424/episodes?season=${parseInt(season)}`, '_blank')}
                                         >
                                             <TableCell className="text-gray-300">

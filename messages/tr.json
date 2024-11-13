@@ -1,59 +1,69 @@
 {
-  "language": {
-    "select": "Dil seçiniz",
-    "tr": "Türkçe",
-    "en": "İngilizce"
-  },
-  "home": {
-    "title": "Rick and Morty Karakterleri",
-    "subtitle": "Çoklu evrenleri keşfet ve favori karakterlerini bul"
-  },
-  "filters": {
-    "searchPlaceholder": "Karakter ara...",
-    "status": {
-      "label": "Durum",
-      "placeholder": "Durum seçin",
-      "all": "Tümü",
-      "alive": "Yaşıyor",
-      "dead": "Ölü",
-      "unknown": "Bilinmiyor"
+    "language": {
+        "select": "Dil seçiniz",
+        "tr": "Türkçe",
+        "en": "İngilizce"
     },
-    "gender": {
-      "label": "Cinsiyet",
-      "placeholder": "Cinsiyet seçin",
-      "all": "Tümü",
-      "male": "Erkek",
-      "female": "Kadın",
-      "genderless": "Cinsiyetsiz",
-      "unknown": "Bilinmiyor"
+    "home": {
+        "title": "Rick and Morty Karakterleri",
+        "subtitle": "Çoklu evrenleri keşfet ve favori karakterlerini bul"
     },
-    "resetFilters": "Filtreleri Sıfırla"
-  },
-  "Character": {
-    "status": {
-      "label": "Durum",
-      "Alive": "Yaşıyor",
-      "Dead": "Ölü",
-      "unknown": "Bilinmiyor"
+    "filters": {
+        "searchPlaceholder": "Karakter ara...",
+        "status": {
+            "label": "Durum",
+            "placeholder": "Durum seçin",
+            "all": "Tümü",
+            "alive": "Yaşıyor",
+            "dead": "Ölü",
+            "unknown": "Bilinmiyor"
+        },
+        "gender": {
+            "label": "Cinsiyet",
+            "placeholder": "Cinsiyet seçin",
+            "all": "Tümü",
+            "male": "Erkek",
+            "female": "Kadın",
+            "genderless": "Cinsiyetsiz",
+            "unknown": "Bilinmiyor"
+        },
+        "resetFilters": "Filtreleri Sıfırla"
     },
-    "species": "Tür",
-    "gender": {
-      "label": "Cinsiyet",
-      "Male": "Erkek",
-      "Female": "Kadın",
-      "Genderless": "Cinsiyetsiz",
-      "unknown": "Bilinmiyor"
+    "Character": {
+        "status": {
+            "label": "Durum",
+            "Alive": "Yaşıyor",
+            "Dead": "Ölü",
+            "unknown": "Bilinmiyor"
+        },
+        "species": "Tür",
+        "gender": {
+            "label": "Cinsiyet",
+            "Male": "Erkek",
+            "Female": "Kadın",
+            "Genderless": "Cinsiyetsiz",
+            "unknown": "Bilinmiyor"
+        },
+        "origin": "Köken",
+        "lastLocation": "Son Konum",
+        "episodes": "Bölümler",
+        "notFound": "Karakter bulunamadı",
+        "season": "Sezon",
+        "episode": "Bölüm",
+        "name": "Adı",
+        "airDate": "Yayın Tarihi",
+        "selectSeason": "Sezon Seç",
+        "allSeasons": "Tüm Sezonlar",
+        "noResults": "Seçilen filtrelerle eşleşen karakter bulunamadı."
     },
-    "origin": "Köken",
-    "lastLocation": "Son Konum",
-    "episodes": "Bölümler",
-    "notFound": "Karakter bulunamadı",
-    "season": "Sezon",
-    "episode": "Bölüm",
-    "name": "Adı",
-    "airDate": "Yayın Tarihi",
-    "selectSeason": "Sezon Seç",
-    "allSeasons": "Tüm Sezonlar",
-    "noResults": "Seçilen filtrelerle eşleşen karakter bulunamadı."
-  }
-} 
+    "error": {
+        "title": "Bir şeyler yanlış gitti!",
+        "message": "Beklenmeyen bir hata oluştu.",
+        "retry": "Tekrar Dene"
+    },
+    "notFound": {
+        "title": "404",
+        "message": "Aradığınız sayfa bulunamadı.",
+        "backToHome": "Ana Sayfaya Dön"
+    }
+}

@@ -25,7 +25,7 @@ export default function SearchBar() {
             params.set('page', '1');
             router.push(`${pathname}?${params.toString()}`);
         }, 300),
-        [searchParams, pathname]
+        [searchParams.toString(), pathname]
     );
 
     const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {

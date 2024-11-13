@@ -26,6 +26,11 @@
     "allSeasons": "All Seasons",
     "noResults": "No characters found matching the selected filters."
   },
+  "error": {
+    "title": "Something went wrong!",
+    "message": "An unexpected error occurred.",
+    "retry": "Try Again"
+  },
   "language": {
     "select": "Select Language",
     "tr": "Turkish",
@@ -55,5 +60,10 @@
       "unknown": "Unknown"
     },
     "resetFilters": "Reset Filters"
+  },
+  "notFound": {
+    "title": "404",
+    "message": "The page you are looking for could not be found.",
+    "backToHome": "Go Back to Home"
   }
 } 

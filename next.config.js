@@ -1,10 +1,7 @@
-const withNextIntl = require('next-intl/plugin')();
+const withNextIntl = require('next-intl/plugin')("./i18n/request.ts");
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
   images: { 
     domains: ['rickandmortyapi.com'],
     unoptimized: true 
