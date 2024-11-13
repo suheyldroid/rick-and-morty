@@ -1,0 +1,59 @@
+{
+  "Character": {
+    "status": {
+      "label": "Status",
+      "Alive": "Alive",
+      "Dead": "Dead",
+      "unknown": "Unknown"
+    },
+    "species": "Species",
+    "gender": {
+      "label": "Gender",
+      "Male": "Male",
+      "Female": "Female",
+      "Genderless": "Genderless",
+      "unknown": "Unknown"
+    },
+    "origin": "Origin",
+    "lastLocation": "Last Known Location",
+    "episodes": "Episodes",
+    "notFound": "Character not found",
+    "season": "Season",
+    "episode": "Episode",
+    "name": "Name",
+    "airDate": "Air Date",
+    "selectSeason": "Select Season",
+    "allSeasons": "All Seasons",
+    "noResults": "No characters found matching the selected filters."
+  },
+  "language": {
+    "select": "Select Language",
+    "tr": "Turkish",
+    "en": "English"
+  },
+  "home": {
+    "title": "Rick and Morty Characters",
+    "subtitle": "Explore the multiverse and find your favorite characters"
+  },
+  "filters": {
+    "searchPlaceholder": "Search characters...",
+    "status": {
+      "label": "Status",
+      "placeholder": "Select status",
+      "all": "All",
+      "alive": "Alive",
+      "dead": "Dead",
+      "unknown": "Unknown"
+    },
+    "gender": {
+      "label": "Gender",
+      "placeholder": "Select gender",
+      "all": "All",
+      "male": "Male",
+      "female": "Female",
+      "genderless": "Genderless",
+      "unknown": "Unknown"
+    },
+    "resetFilters": "Reset Filters"
+  }
+} 
